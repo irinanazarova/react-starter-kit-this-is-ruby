@@ -7,3 +7,12 @@ db/schema.rb linguist-generated
 vendor/* linguist-vendored
 config/credentials/*.yml.enc diff=rails_credentials
 config/credentials.yml.enc diff=rails_credentials
+
+# --- this_is_ruby: begin ---
+public/400.html linguist-generated
+public/404.html linguist-generated
+public/406-unsupported-browser.html linguist-generated
+public/422.html linguist-generated
+public/500.html linguist-generated
+app/javascript/** linguist-vendored
+# --- this_is_ruby: end ---
